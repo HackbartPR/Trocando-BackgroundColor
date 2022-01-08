@@ -6,18 +6,18 @@
 <ul>
   <li> HTML ✔️ </li>
     <ul>
-      <li> Div 📖</li>
-      <li> Button 📖</li>
+      <li> Div 📗</li>
+      <li> Button 📗</li>
     </ul>
   <li> CSS ✔️ </li>
     <ul>
-      <li> Display Flex 📖</li>
-      <li> Background-Color 📖</li>
+      <li> Display Flex 📘</li>
+      <li> Background-Color 📘</li>
     </ul>
   <li> Java Script ✔️ </li>
     <ul>
-      <li> getElementById 📖</li>
-      <li> Window.Onclick 📖</li>
-      <li> Switch 📖</li>
+      <li> getElementById 📙</li>
+      <li> Window.Onclick 📙</li>
+      <li> Switch 📙</li>
     </ul>
 </ul>
